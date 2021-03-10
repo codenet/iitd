@@ -2,9 +2,9 @@
 
 Less known but broadly useful resources.
 
-* [General](general)
-    * [Computing](computing)
-    * [Teaching](teaching)
-    * [Housing](housing)
+* [General](general.md)
+    * [Computing](computing.md)
+    * [Teaching](teaching.md)
+    * [Housing](housing.md)
 * Department specific
-    * [CSE](cse)
+    * [CSE](cse.md)
